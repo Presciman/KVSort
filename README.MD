@@ -62,4 +62,4 @@ https://sc24.supercomputing.org/proceedings/poster/poster_files/post189s2-file3.
 ```
 
 # Acknowledgement
-## The material was supported by IU Bigred200. This work was also supported by the National Science Foundation (Grant Nos. 2312673, 2247080, 2303064, 2326494, and 2326495). Dingwen Tao contributed to this work while he was at Indiana University.
+### The material was supported by IU Bigred200. This work was also supported by the National Science Foundation (Grant Nos. 2312673, 2247080, 2303064, 2326494, and 2326495). Dingwen Tao contributed to this work while he was at Indiana University.
