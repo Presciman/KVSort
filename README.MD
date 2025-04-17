@@ -18,7 +18,7 @@ https://github.com/EleutherAI/lm-evaluation-harness
 
 
 ### Obtain Key and Value tensor from transformer package and dump as FP32 numpy array
-#### Replace https://github.com/EleutherAI/lm-evaluation-harness/blob/main/lm_eval/models/huggingface.py with code/huggingface.py, search "Baixi"to locate. Change the directory to save data
+#### Replace https://github.com/EleutherAI/lm-evaluation-harness/blob/main/lm_eval/models/huggingface.py with code/huggingface.py. Change the directory to save data, search "Baixi"to locate in my huggingface.py
 
 ## Running lm_eval to obtain key and value cache
 ```
@@ -60,3 +60,6 @@ https://sc24.supercomputing.org/proceedings/poster/poster_files/post189s2-file3.
   author={Sun, Baixi and Yu, Xiaodong and Tao, Dingwen}
 }
 ```
+
+# Acknowledgement
+## The material was supported by IU Bigred200. This work was also supported by the National Science Foundation (Grant Nos. 2312673, 2247080, 2303064, 2326494, and 2326495. Dingwen Tao contributed to this work while he was at Indiana University.
